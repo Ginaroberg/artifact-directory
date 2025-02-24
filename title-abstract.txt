@@ -1,5 +1,21 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Projecting Crop Yields Based on ESM Emulation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The world continues to face the impact of climate change, posing great chal-
+lenges, particularly with global agriculture. Policymakers and researchers
+need efficient tools to assess crop productivity under certain climate scenar-
+ios. Traditional crop modeling approaches offer high accuracy, but are of-
+ten computationally intensive and difficult to scale. In response, this study
+aims to develop a machine learning-based emulator to predict crop yields,
+specifically for maize, rice, wheat, and soybeans using climate and environ-
+mental data from Earth System Model simulations. By leveraging models
+like Random Forest Regressor and Gaussian Process trained on historical crop
+yield and climate data from the Inter-Sectoral Impact Model Intercomparison
+Project (ISIMIP), we efficiently predict annual crop yields based on key cli-
+mate variables such as solar radiation, temperature, and precipitation. Our
+approach significantly reduces costs while maintaining accuracy, providing
+an easily accessible framework to measure the impacts of climate change on
+global food security. Our method aims to improve the ability of policymak-
+ers to anticipate agricultural challenges and ensure that food production is
+sustainable in a changing climate.
